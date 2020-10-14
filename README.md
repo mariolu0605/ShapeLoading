@@ -1,4 +1,4 @@
 # ShapeLoading
 
 ### 效果图
-![](https://github.com/mariolu0605/ShapeLoading/blob/master/58LoadingView.gif)
+![](http://upload-images.jianshu.io/upload_images/166866-7d4158de2ce40a9a.gif)
