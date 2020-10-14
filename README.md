@@ -1,4 +1,4 @@
 # ShapeLoading
 
 ### 效果图
-![](http://upload-images.jianshu.io/upload_images/166866-7d4158de2ce40a9a.gif)
+![](https://upload-images.jianshu.io/upload_images/20061149-76a60334b2d9594b.gif?imageMogr2/auto-orient/strip|imageView2/2/w/480/format/webp)
