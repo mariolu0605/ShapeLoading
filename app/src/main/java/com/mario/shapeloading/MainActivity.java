@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.widget.ImageView;
 
 import com.mario.library.drawable.ShapeLoadingDrawable;
+import com.mario.library.drawable.ThreeBallsLoadingDrawable;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -15,8 +16,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         ImageView imageView = findViewById(R.id.iv_shape_loading);
 
-        ShapeLoadingDrawable shapeLoadingDrawable = new ShapeLoadingDrawable();
-        imageView.setImageDrawable(shapeLoadingDrawable);
-        shapeLoadingDrawable.start();
+//        ShapeLoadingDrawable shapeLoadingDrawable = new ShapeLoadingDrawable();
+//        imageView.setImageDrawable(shapeLoadingDrawable);
+//        shapeLoadingDrawable.start();
+
+        ThreeBallsLoadingDrawable threeBallsLoadingDrawable = new ThreeBallsLoadingDrawable();
+        imageView.setImageDrawable(threeBallsLoadingDrawable);
+        threeBallsLoadingDrawable.start();
     }
 }
