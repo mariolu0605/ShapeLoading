@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ImageView;
 
+import com.mario.library.drawable.DouYinLoadingDrawable;
 import com.mario.library.drawable.ShapeLoadingDrawable;
 import com.mario.library.drawable.ThreeBallsLoadingDrawable;
 
@@ -20,8 +21,12 @@ public class MainActivity extends AppCompatActivity {
 //        imageView.setImageDrawable(shapeLoadingDrawable);
 //        shapeLoadingDrawable.start();
 
-        ThreeBallsLoadingDrawable threeBallsLoadingDrawable = new ThreeBallsLoadingDrawable();
-        imageView.setImageDrawable(threeBallsLoadingDrawable);
-        threeBallsLoadingDrawable.start();
+//        ThreeBallsLoadingDrawable threeBallsLoadingDrawable = new ThreeBallsLoadingDrawable();
+//        imageView.setImageDrawable(threeBallsLoadingDrawable);
+//        threeBallsLoadingDrawable.start();
+
+        DouYinLoadingDrawable douYinLoadingDrawable = new DouYinLoadingDrawable();
+        imageView.setImageDrawable(douYinLoadingDrawable);
+        douYinLoadingDrawable.start();
     }
 }
