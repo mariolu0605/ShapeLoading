@@ -9,4 +9,4 @@
 ![](https://upload-images.jianshu.io/upload_images/20061149-f4e7b18ef3831240.gif)
 
 #### DouYinLoadingDrawable
-![](https://upload-images.jianshu.io/upload_images/20061149-89c01a601cc4d722.gif)
+![](https://upload-images.jianshu.io/upload_images/20061149-db8f1fd660dedcab.gif)
